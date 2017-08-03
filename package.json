@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neinhart/cordova-plugin-android-native-pdfviewer.git"
+    "url": "git+https://github.com/jouk007/cordova-plugin-android-native-pdfviewer.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "neinhart",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neinhart/cordova-plugin-android-native-pdfviewer/issues"
+    "url": "https://github.com/jouk007/cordova-plugin-android-native-pdfviewer/issues"
   },
-  "homepage": "https://github.com/neinhart/cordova-plugin-android-native-pdfviewer#readme"
+  "homepage": "https://github.com/jouk007/cordova-plugin-android-native-pdfviewer#readme"
 }
